@@ -1,5 +1,9 @@
 <?php
-    
+
+/**
+ * Convert between utm, lla, mgrs
+ */
+
 /**
  * Error handling logic
  */
